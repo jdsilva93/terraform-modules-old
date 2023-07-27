@@ -1,0 +1,13 @@
+variable "lbname" {}
+variable "location" {}
+variable "resourcegroup" {}
+variable "lbsku" {}
+variable "subnetid" {}
+variable "lbprivip" {}
+variable "lbprobeport" {}
+variable "lbprobeprotocol" {}
+variable "lbproberequestpath" {}
+variable "lbrulename" {}
+variable "lbruleprotocol" {}
+variable "lbrulefrtport" {}
+variable "lbrulebckport" {}

@@ -1,0 +1,11 @@
+variable "nsgrulename" {}
+variable "priority" {}
+variable "direction" {}
+variable "access" {}
+variable "protocol" {}
+variable "sourceport" {}
+variable "destinationport" {}
+variable "sourceaddress" {}
+variable "destinationaddress" {}
+variable "resource_group" {}
+variable "nsgname" {}
